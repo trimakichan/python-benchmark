@@ -278,4 +278,28 @@ for items in nested_list:
 
 '''REMINDER'''
 
+
 # You're doing great and you got this!
+
+
+# Use lambda functions with max and min to find the longest and shortest words in a list
+words = ["apple", "banana", "kiwi", "strawberry", "fig"]
+
+nums = [-10, -3, 2, 8]
+# Find the number with the largest absolute value (use abs)
+
+cities = {"Tokyo": 37, "Delhi": 31, "Shanghai": 27, "New York": 19}
+# Find the city with the largest population
+
+employees = [
+    {"name": "Tom", "hours": 40},
+    {"name": "Anna", "hours": 52},
+    {"name": "John", "hours": 45}
+]
+# Find the employee who worked the most hours
+inventory = [
+    {"name": "apple", "price": 2, "quantity": 50},
+    {"name": "banana", "price": 1, "quantity": 100},
+    {"name": "pear", "price": 3, "quantity": 30}
+]
+# Find the product with the highest total value
